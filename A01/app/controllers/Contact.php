@@ -5,9 +5,9 @@ class Contact extends Controller
     {
     }
     
-    public function index()
+    public function home()
     {
-        $this->view('Contact/contact');
+        $this->view('Contact/contactus');
     }
 
     public function contactus()
