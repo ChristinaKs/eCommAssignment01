@@ -1,4 +1,6 @@
-<html>
+<?php require APPROOT . '/views/includes/header.php'; 
+?>
+    <html>
 
 <head>
     <title>Contact View</title>
@@ -76,3 +78,4 @@
 </body>
 
 </html>
+<?php require APPROOT . '/views/includes/footer.php'; ?>
