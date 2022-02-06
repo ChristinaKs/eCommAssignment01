@@ -3,7 +3,7 @@
     <html>
 
 <head>
-    <title>Contact View</title>
+    <title>Contact Us</title>
     <style>
         /* Style inputs with type="text", select elements and textareas */
         input[type=text],

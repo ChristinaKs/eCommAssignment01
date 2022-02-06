@@ -13,16 +13,16 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-        <a class="navbar-brand" href="../Main/home.php">Christine and Sarah</a>
+        <a class="navbar-brand" href="../Main/home.php">Christina and Sarah</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-link active" aria-current="page" href="../Main/home.php">Home</a>
-                    <a class="nav-link" href="../Main/timeline.php">Timeline</a>
-                    <a class="nav-link" href="../Contact/about.php">About</a>
-                    <a class="nav-link" href="../Contact/contactus.php">Contact us</a>
+                    <a class="nav-link active" aria-current="page" href="..">Home</a>
+                    <a class="nav-link" href="../Main/timeline">Timeline</a>
+                    <a class="nav-link" href="../Contact/about">About</a>
+                    <a class="nav-link" href="../Contact/contactus">Contact us</a>
                 </div>
             </div>
         </div>

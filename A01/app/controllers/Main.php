@@ -5,11 +5,6 @@ class Main extends Controller
     {
     }
 
-    public function index()
-    {
-        $this->view('Main/main');
-    }
-
     public function Home()
     {
         $this->view('Main/home');

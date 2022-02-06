@@ -1,1 +1,1 @@
-alert("hello from main.js!");
+alert("Thank you for visiting our website created for Assignment01 in our ecommerce Course!");

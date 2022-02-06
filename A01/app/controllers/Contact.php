@@ -5,17 +5,17 @@ class Contact extends Controller
     {
     }
     
-    public function home()
+    public function Home()
     {
         $this->view('Contact/contactus');
     }
 
-    public function contactus()
+    public function Contactus()
     {
         $this->view('Contact/contactus');
     }
 
-    public function about()
+    public function About()
     {
         $this->view('Contact/about');
     }
