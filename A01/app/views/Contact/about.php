@@ -22,7 +22,7 @@
                     </ul>
                 </td>
                 <td style="width:50%">
-                    <img src="../../../public/img/crystals.jpg">
+                    <img src="http://localhost/A01/public/img/crystals.jpg">
                 </td>
             </tr>
             <tr>
