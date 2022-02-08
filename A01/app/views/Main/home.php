@@ -12,20 +12,20 @@
 </head>
 <body>
     <h1>Assignment 01: Creating a Website (About our Friendship)</h1>
+    <h2>For e-Commerce 420-411-VA sect. 00002</h2>
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="..." class="d-block w-100" >
+          <img src="http://localhost/A01/public/img/home1.JPG" class="d-block w-100" >
         </div>
         <div class="carousel-item">
-          <img src="..." class="d-block w-100" >
+          <img src="http://localhost/A01/public/img/home2.JPG" class="d-block w-100" >
         </div>
         <div class="carousel-item">
-          <img src="..." class="d-block w-100" >
+          <img src="http://localhost/A01/public/img/home3.JPG" class="d-block w-100" >
         </div>
       </div>
     </div>
     
-<p>fjndfjbflkjnvdkjfnfkj</p>
 </body>
 <?php require APPROOT . '/views/includes/footer.php'; ?>

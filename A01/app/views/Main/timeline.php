@@ -12,18 +12,13 @@
 </head>
 <body> <!-- using https://getbootstrap.com/docs/5.1/components/dropdowns/ but its not working -->
     <h1>Timeline of our Friendship</h1>
-    <div class="btn-group dropend">
-        <button type="button" class="btn btn-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-            Dropright
-        </button>
-    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-        <li><a class="dropdown-item" href="http://localhost/A01/Main/timeline#Existence">First Time Acknowledging Each Other's Exisetence</a></li>
-        <li><a class="dropdown-item" href="http://localhost/A01/Main/timeline#Meet">First Time Meeting</a></li>
-        <li><a class="dropdown-item" href="http://localhost/A01/Main/timeline#Summer">Summer of 2021</a></li>
-        <li><a class="dropdown-item" href="http://localhost/A01/Main/timeline#FallSem">Fall Semester of 2021</a></li>
-        <li><a class="dropdown-item" href="http://localhost/A01/Main/timeline#WinterBreak">Winter Break</a></li>
-        <li><a class="dropdown-item" href="http://localhost/A01/Main/timeline#Current">Where we are Now</a></li>
-    </ul>
+    <div class="btn-group">
+        <a href="http://localhost/A01/Main/Timeline#Existence" class="btn btn-primary active" aria-current="page">First Time Acknowledging Each Other's Exisetence</a>
+        <a href="http://localhost/A01/Main/Timeline#Meet" class="btn btn-primary">First Time Meeting</a>
+        <a href="http://localhost/A01/Main/Timeline#Summer" class="btn btn-primary">Summer of 2021</a>
+        <a href="http://localhost/A01/Main/Timeline#FallSem" class="btn btn-primary">Fall Semester of 2021</a>
+        <a href="http://localhost/A01/Main/Timeline#Winter" class="btn btn-primary">Winter Break</a>
+        <a href="http://localhost/A01/Main/Timeline#Current" class="btn btn-primary">Where we are Now</a>
     </div>
 
     <div id="Existence">
@@ -31,18 +26,23 @@
     </div>
     <div id="Meet">
         <h2> First Time Meeting </h2>
+        <br><br><br><br><br><br><br><br>
     </div>
     <div id="Summer">
         <h2> Summer of 2021 </h2>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br>
     </div>
     <div id="FallSem">
         <h2> Fall Semester of 2021 </h2>
+        <br><br><br><br><br><br>
     </div>
-    <div id="Winter Break">
+    <div id="Winter">
         <h2> Winter Break </h2>
+        <br><br><br><br><br>
     </div>
     <div id="Current">
         <h2> Where we are Now </h2>
+        <br><br><br><br><br><br>
     </div>
 </body>
     <?php require APPROOT . '/views/includes/footer.php'; ?>
