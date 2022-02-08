@@ -8,7 +8,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     </head>
     <body>
-        <table style="width:100%">
+        <table >
             <tr>
                 <td style="width:50%">
                     <ul class="list-unstyled">
@@ -22,32 +22,42 @@
                     </ul>
                 </td>
                 <td style="width:50%">
-                    <img src="http://localhost/A01/public/img/crystals.jpg">
+                    <img src="http://localhost/A01/public/img/crystals.jpg" width="300" height="200">
                 </td>
             </tr>
             <tr>
-                <ul class="list-unstyled">
-                    <li><h3>What we bond over:</h3>
-                        <ul>
-                            <li>Pretty rocks</li>
-                            <li>Monsters</li>
-                            <li>Heels</li>
-                            <li>Hating males</li>
-                        </ul>
-                    </li>   
-                </ul>
+                <td style="width:50%">
+                    <ul class="list-unstyled">
+                        <li><h3>What we bond over:</h3>
+                            <ul>
+                                <li>Pretty rocks</li>
+                                <li>Monsters</li>
+                                <li>Heels</li>
+                                <li>Hating males</li>
+                            </ul>
+                        </li>   
+                    </ul>
+                </td>
+                <td style="width:50%">
+                    <img src="http://localhost/A01/public/img/hatemen.jpeg" width="300" height="200">
+                </td>
             </tr>
             <tr>
-                <ul class="list-unstyled">
-                    <li><h3>Our inside jokes:</h3>
-                        <ul>
-                            <li>"Do you have any games on your phone?"</li>
-                            <li>"Do you have mommy and/or daddy issues?"</li>
-                            <li>"Do you have any laxative suggestions?"</li>
-                            <li>"Giu? *puts hands on hips* do you want to .... your brother??"</li>
-                        </ul>
-                    </li>
-                </ul>
+                <td style="width:50%">
+                    <ul class="list-unstyled">
+                        <li><h3>Our inside jokes:</h3>
+                            <ul>
+                                <li>"Do you have any games on your phone?"</li>
+                                <li>"Do you have mommy and/or daddy issues?"</li>
+                                <li>"Do you have any laxative suggestions?"</li>
+                                <li>"Giu? *puts hands on hips* do you want to .... your brother??"</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </td>
+                <td style="width:50%">
+                    <img src="http://localhost/A01/public/img/monsters.jpg" width="300" height="200">
+                </td>
             </tr>
         </table>    
     </body>
